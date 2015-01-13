@@ -1082,10 +1082,14 @@ int das_dump_xmls( unsigned char* data, int filesize ) {
 			if ( memcmp( data + i, xmlstr, 5 ) == 0 ) {
 				xml_count++;
 				// Dynamically allocate memory
-				xml.size = (int*)realloc( xml.size, xml_count * sizeof( int ) );
-				xml.offset = (int*)realloc( xml.offset, xml_count * sizeof( int ) );
-				xml.shift_amount = (int*)realloc( xml.shift_amount, xml_count * sizeof( int ) );
-				xml.data = (unsigned char**)realloc( xml.data, xml_count * sizeof( unsigned char* ) );
+				xml.size =
+					(int*)realloc( xml.size, xml_count * sizeof( int ) );
+				xml.offset =
+					(int*)realloc( xml.offset, xml_count * sizeof( int ) );
+				xml.shift_amount =
+					(int*)realloc( xml.shift_amount, xml_count * sizeof( int ) );
+				xml.data =
+					(unsigned char**)realloc( xml.data, xml_count * sizeof( unsigned char* ) );
 				// Initalize values
 				xml.size[xml_count-1] = 0;
 				xml.offset[xml_count-1] = i;
@@ -1093,11 +1097,16 @@ int das_dump_xmls( unsigned char* data, int filesize ) {
 				xml.data[xml_count-1] = NULL;
 				// Get size of the xml from the 4 preceeding bytes (offset-4)
 				for ( d = 0; d < 4; d++ )
-					xml.size[xml_count-1] = ( xml.size[xml_count-1] << 8 ) + data[xml.offset[xml_count-1]+d-4];
+					xml.size[xml_count-1] =
+						( xml.size[xml_count-1] << 8 ) + data[xml.offset[xml_count-1]+d-4];
 				// Allocate the xml data if its less than 1mb in size
 				if ( xml.size[xml_count-1] <= 1000000 ) {
-					xml.data[xml_count-1] = (unsigned char*)realloc( xml.data[xml_count-1], xml.size[xml_count-1] * sizeof( unsigned char ) );
-					memcpy( xml.data[xml_count-1], data + xml.offset[xml_count-1], xml.size[xml_count-1] );
+					xml.data[xml_count-1] =
+						(unsigned char*)realloc( xml.data[xml_count-1],
+							xml.size[xml_count-1] * sizeof( unsigned char ) );
+					memcpy( xml.data[xml_count-1],
+						data + xml.offset[xml_count-1],
+						xml.size[xml_count-1] );
 				}
 				printf( "::  Found XML at %.8X (>>%.2d). Written to \"xml_file%.2d.xml\"\n",
 					xml.offset[xml_count-1],
