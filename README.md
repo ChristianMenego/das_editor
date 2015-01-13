@@ -1,22 +1,22 @@
 # das_editor
 Dragon Age: Inquisition command line save game editor.
 
-This is a hackish command line style tool to allow modification of some stuff inside of the save files. Note that this likely has many bugs and requires user testing. [b]This opens save files in read only mode and will output a new file. I still recommend backing up saves.[/b]
+This is a hackish command line style tool to allow modification of some stuff inside of the save files. Note that this likely has many bugs and requires user testing. This opens save files in read only mode and will output a new file. I still recommend backing up saves.
 
 For now, these are the values that can be modified:
-	Eyeliner Intensity & Color
-	Eye Shadow Intensity & Color
-	Under-Eye Color
-	Blush Intensity & Color
-	Lip Shine, Intensity & Color
-	Lip Liner Color
-	Under-Brow Intensity & Color
-	Eyebrow Color
-	Eyelash Color
-	Hair Color
-	Scalp Hair Color
-	Facial Hair Color
-	Inner & Outer Iris Color
+- Eyeliner Intensity & Color
+- Eye Shadow Intensity & Color
+- Under-Eye Color
+- Blush Intensity & Color
+- Lip Shine, Intensity & Color
+- Lip Liner Color
+- Under-Brow Intensity & Color
+- Eyebrow Color
+- Eyelash Color
+- Hair Color
+- Scalp Hair Color
+- Facial Hair Color
+- Inner & Outer Iris Color
 
 Instructions:
 - Drag and drop a DAS file onto das_editor.exe OR run from the command line.
