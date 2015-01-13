@@ -1,0 +1,144 @@
+General
+	Face Shape (Steps=7,0-6)
+		Unknown
+	Skin Tone (Steps=11,0-10)
+		hf_00	= texNameHash="18DC7731"
+		hf_01	= texNameHash="18DC7730"
+		hf_02	= texNameHash="18DC7733"
+		hf_03	= texNameHash="18DC7732"
+		hf_04	= texNameHash="18DC7735"
+		hf_05	= texNameHash="18DC7734"
+		hf_06	= texNameHash="18DC7737"
+		hf_07	= texNameHash="18DC7736"
+		hf_08	= texNameHash="18DC7739"
+		hf_09	= texNameHash="18DC7738"
+		hf_10	= texNameHash="18DC76D0"
+	Complexion (Steps=15,0-14)
+		hf_00	= D1_Diffuse  texNameHash="3804040627"
+				= N1_Normal   texNameHash="3804040633"
+				= S1_Specular texNameHash="1541992660"
+				= ComplextionBlend_Diff_Norm_Spec hash="C087A591" x="0.0" y="0.0" z="0.0"
+		hf_01	= D1_Diffuse  texNameHash="1541992643"
+				= N1_Normal   texNameHash="1541992649"
+				= S1_Specular texNameHash="1541992660"
+				= ComplextionBlend_Diff_Norm_Spec hash="C087A591" x="0.0" y="0.0" z="0.0"
+		hf_02	= D1_Diffuse  texNameHash="58D36475"
+				= N1_Normal   texNameHash="58D3647F"
+				= S1_Specular texNameHash="58D36462"
+				= ComplextionBlend_Diff_Norm_Spec hash="C087A591" x="0.0" y="0.0" z="0.0"
+		hf_03	= D1_Diffuse  texNameHash="1331152466"
+				= N1_Normal   texNameHash="1331152472"
+				= S1_Specular texNameHash="3804040612"
+				= ComplextionBlend_Diff_Norm_Spec hash="C087A591" x="0.62832" y="0.9" z="1.0"
+		hf_04	= D1_Diffuse  texNameHash="3804040627"
+				= N1_Normal   texNameHash="1287754481"
+				= S1_Specular texNameHash="1287754476"
+				= ComplextionBlend_Diff_Norm_Spec hash="C087A591" x="0.5" y="0.93462" z="0.0"
+		hf_05	= D1_Diffuse  texNameHash="3804040627"
+				= N1_Normal   texNameHash="3804040633"
+				= S1_Specular texNameHash="3804040612"
+				= ComplextionBlend_Diff_Norm_Spec hash="C087A591" x="0.0" y="0.0" z="0.0"
+		hf_06	= D1_Diffuse  texNameHash="1541992643"
+				= N1_Normal   texNameHash="1541992649"
+				= S1_Specular texNameHash="1541992660"
+				= ComplextionBlend_Diff_Norm_Spec hash="C087A591" x="0.0" y="0.0" z="0.0"
+		hf_07	= D1_Diffuse  texNameHash="58D36475"
+				= N1_Normal   texNameHash="58D3647F"
+				= S1_Specular texNameHash="58D36462"
+				= ComplextionBlend_Diff_Norm_Spec hash="C087A591" x="0.0" y="0.0" z="0.0"
+		hf_08	= D1_Diffuse  texNameHash="1331152466"
+				= N1_Normal   texNameHash="1331152472"
+				= S1_Specular texNameHash="3804040612"
+				= ComplextionBlend_Diff_Norm_Spec hash="C087A591" x="0.5" y="0.9" z="1.0"
+		hf_09	= D1_Diffuse  texNameHash="3804040627"
+				= N1_Normal   texNameHash="1287754481"
+				= S1_Specular texNameHash="1287754476"
+				= ComplextionBlend_Diff_Norm_Spec hash="C087A591" x="0.5" y="0.93462" z="0.0"
+		hf_10	= D1_Diffuse  texNameHash="3804040627"
+				= N1_Normal   texNameHash="3804040633"
+				= S1_Specular texNameHash="3804040612"
+				= ComplextionBlend_Diff_Norm_Spec hash="C087A591" x="0.0" y="0.0" z="0.0"
+		hf_11	= D1_Diffuse  texNameHash="1541992643"
+				= N1_Normal   texNameHash="1541992649"
+				= S1_Specular texNameHash="1541992660"
+				= ComplextionBlend_Diff_Norm_Spec hash="C087A591" x="0.0" y="0.0" z="0.0"
+		hf_12	= D1_Diffuse  texNameHash="58D36475"
+				= N1_Normal   texNameHash="58D3647F"
+				= S1_Specular texNameHash="58D36462"
+				= ComplextionBlend_Diff_Norm_Spec hash="C087A591" x="0.0" y="0.0" z="0.0"
+		hf_13	= D1_Diffuse  texNameHash="1331152466"
+				= N1_Normal   texNameHash="1331152472"
+				= S1_Specular texNameHash="3804040612"
+				= ComplextionBlend_Diff_Norm_Spec hash="C087A591" x="0.5" y="0.9" z="1.0"
+		hf_14	= D1_Diffuse  texNameHash="3804040627"
+				= N1_Normal   texNameHash="1287754481"
+				= S1_Specular texNameHash="1287754476"
+				= ComplextionBlend_Diff_Norm_Spec hash="C087A591" x="0.5" y="0.93462" z="0.0"
+	Eye Color (Steps=52,0-51)
+		TintInner="3BD3FFDC"
+		TintMid="75D44C82"
+	Hair
+	Hair Color
+	Voice
+Head and Ears
+	Ear Size
+	Ear Position
+	Earlobe Size
+	Cheekbones
+	Cheeck Shape
+	Brow Size
+	Forehead
+Eyes
+	Eye Shape
+	Eye Size
+	Eye Position
+	Eye Rotation and Spacing
+	Eyebrow Style
+	Eyebrow Position
+	Eyelash Style
+	Outer Iris Color
+	Inner Iris Color
+Nose
+	Nose Shape
+	Nose Size
+	Nose Position
+	Nose Bridge Size
+	Bridge Position
+	Nose Tip Size
+	Nose Tip Position
+	Nostril Size
+	Broken Nose
+Mouth and Jaw
+	Mouth Shape
+	Mouth Width
+	Mouth Position
+	Lip Thickness
+	Jawline
+	Jaw Size
+	Jowls
+	Chin Size
+	Chin Shape
+	Double Chin
+	Adam's Apple
+Scars and Tattoos
+	Scars
+	Scar Intensity
+	Horizontal Position
+	Vertical Position
+	Tattoo Design
+	Tattoo Color
+Makeup
+	Eye Shadow Color
+	Eye Shadow Intensity
+	Under-Eye Color
+	Under-Brow Color
+	Under-Brow Intensity
+	Eyelash Color
+	Eyeliner Color
+	Eyeliner Intensity
+	Blush Color
+	Blush Intensity
+	Lip Color
+	Lip Color Intensity
+	Lip Liner Color
+	Lip Shine
