@@ -1,233 +1,233 @@
 Prototype {
-	Slider XX {
-		FFFFFFFF + 0 : ComplextionBlend_Diff_Norm_Spec x
-		FFFFFFFF + 0 : ComplextionBlend_Diff_Norm_Spec y
-		FFFFFFFF + 0 : ComplextionBlend_Diff_Norm_Spec z
-		FFFFFFFF + 0 : TintDetailWeights x
-		FFFFFFFF + 0 : TintDetailWeights y
-		FFFFFFFF + 0 : TintDetailWeights z
-		FFFFFFFF + 0 : TintDetailWeights w
-		texnameHash  : D1_Diffuse
-		texnameHash  : D2_Diffuse
-		texnameHash  : N1_Normal
-		texnameHash  : N2_Normal
-		texnameHash  : S1_Specular
-		texnameHash  : S2_Specular
-	}
+    Slider XX {
+        FFFFFFFF + 0 : ComplextionBlend_Diff_Norm_Spec x
+        FFFFFFFF + 0 : ComplextionBlend_Diff_Norm_Spec y
+        FFFFFFFF + 0 : ComplextionBlend_Diff_Norm_Spec z
+        FFFFFFFF + 0 : TintDetailWeights x
+        FFFFFFFF + 0 : TintDetailWeights y
+        FFFFFFFF + 0 : TintDetailWeights z
+        FFFFFFFF + 0 : TintDetailWeights w
+        texnameHash  : D1_Diffuse
+        texnameHash  : D2_Diffuse
+        texnameHash  : N1_Normal
+        texnameHash  : N2_Normal
+        texnameHash  : S1_Specular
+        texnameHash  : S2_Specular
+    }
 }
 
 Human Female {
-	Slider 00 {
-		ComplextionBlend_Diff_Norm_Spec x="0.0"
-		ComplextionBlend_Diff_Norm_Spec y="0.0"
-		ComplextionBlend_Diff_Norm_Spec z="0.0"
-		TintDetailWeights x="0.0"
-		TintDetailWeights y="0.0"
-		TintDetailWeights z="0.0"
-		TintDetailWeights w="0.0"
-		D1_Diffuse  texNameHash="3804040627" [E2BD0DB3] (da3/actors/baseheads/humanfemale/textures/hf_hed_bas_d)
-		D2_Diffuse  texNameHash="1287754491" [4CC192FB] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_d)
-		N1_Normal   texNameHash="3804040633" [E2BD0DB9] (da3/actors/baseheads/humanfemale/textures/hf_hed_bas_n)
-		N2_Normal   texNameHash="1287754481" [4CC192F1] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_n)
-		S1_Specular texNameHash="3804040612" [E2BD0DA4] (da3/actors/baseheads/humanfemale/textures/hf_hed_bas_s)
-		S2_Specular texNameHash="1287754476" [4CC192EC] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_s)
-	} Slider 01 {
-		ComplextionBlend_Diff_Norm_Spec x="0.0"
-		ComplextionBlend_Diff_Norm_Spec y="0.0"
-		ComplextionBlend_Diff_Norm_Spec z="0.0"
-		TintDetailWeights x="0.0"
-		TintDetailWeights y="0.0"
-		TintDetailWeights z="0.0"
-		TintDetailWeights w="0.0"
-		D1_Diffuse  texNameHash="1541992643" [5BE8F0C3] (da3/actors/baseheads/dwarffemale/textures/df_hed_base_d)
-		D2_Diffuse  texNameHash="1287754491" [4CC192FB] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_d)
-		N1_Normal   texNameHash="1541992649" [5BE8F0C9] (da3/actors/baseheads/dwarffemale/textures/df_hed_base_n)
-		N2_Normal   texNameHash="1287754481" [4CC192F1] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_n)
-		S1_Specular texNameHash="1541992660" [5BE8F0D4] (da3/actors/baseheads/dwarffemale/textures/df_hed_base_s)
-		S2_Specular texNameHash="1287754476" [4CC192EC] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_s)
-	} Slider 02 {
-		ComplextionBlend_Diff_Norm_Spec x="0.0"
-		ComplextionBlend_Diff_Norm_Spec y="0.0"
-		ComplextionBlend_Diff_Norm_Spec z="0.0"
-		TintDetailWeights x="0.0"
-		TintDetailWeights y="0.0"
-		TintDetailWeights z="0.0"
-		TintDetailWeights w="0.0"
-		D1_Diffuse  texNameHash="1490248821" [58D36475] (da3/actors/baseheads/inquisitor/textures/hf_hed_inq_d)
-		D2_Diffuse  texNameHash="1287754491" [4CC192FB] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_d)
-		N1_Normal   texNameHash="1490248831" [58D3647F] (da3/actors/baseheads/inquisitor/textures/hf_hed_inq_n)
-		N2_Normal   texNameHash="1287754481" [4CC192F1] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_n)
-		S1_Specular texNameHash="1490248802" [58D36462] (da3/actors/baseheads/inquisitor/textures/hf_hed_inq_s)
-		S2_Specular texNameHash="1287754476" [4CC192EC] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_s)
-	} Slider 03 {
-		ComplextionBlend_Diff_Norm_Spec x="0.62832"
-		ComplextionBlend_Diff_Norm_Spec y="0.9"
-		ComplextionBlend_Diff_Norm_Spec z="1.0"
-		TintDetailWeights x="0.0"
-		TintDetailWeights y="0.0"
-		TintDetailWeights z="0.0"
-		TintDetailWeights w="0.0"
-		D1_Diffuse  texNameHash="1331152466" [4F57C652] (da3/actors/baseheads/textures/age/uhm_age_d)
-		D2_Diffuse  texNameHash="3804040627" [E2BD0DB3] (da3/actors/baseheads/humanfemale/textures/hf_hed_bas_d)
-		N1_Normal   texNameHash="1331152472" [4F57C658] (da3/actors/baseheads/textures/age/uhm_age_n)
-		N2_Normal   texNameHash="3364688408" [C88D1218] (da3/actors/baseheads/textures/rough/uhm_rough_n)
-		S1_Specular texNameHash="3804040612" [E2BD0DA4] (da3/actors/baseheads/humanfemale/textures/hf_hed_bas_s)
-		S2_Specular texNameHash="3364688389" [C88D1205] (da3/actors/baseheads/textures/rough/uhm_rough_s)
-	} Slider 04 {
-		ComplextionBlend_Diff_Norm_Spec x="0.5"
-		ComplextionBlend_Diff_Norm_Spec y="0.93462"
-		ComplextionBlend_Diff_Norm_Spec z="0.0"
-		TintDetailWeights x="0.0"
-		TintDetailWeights y="0.0"
-		TintDetailWeights z="0.0"
-		TintDetailWeights w="0.0"
-		D1_Diffuse  texNameHash="3804040627" [E2BD0DB3] (da3/actors/baseheads/humanfemale/textures/hf_hed_bas_d)
-		D2_Diffuse  texNameHash="1287754491" [4CC192FB] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_d)
-		N1_Normal   texNameHash="1287754481" [4CC192F1] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_n)
-		N2_Normal   texNameHash="1418330828" [548A02CC] (da3/actors/baseheads/elfmale/textures/em_hed_bas_n)
-		S1_Specular texNameHash="1287754476" [4CC192EC] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_s)
-		S2_Specular texNameHash="1287754476" [4CC192EC] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_s)
-	} Slider 05 {
-		ComplextionBlend_Diff_Norm_Spec x="0.0"
-		ComplextionBlend_Diff_Norm_Spec y="0.0"
-		ComplextionBlend_Diff_Norm_Spec z="0.0"
-		TintDetailWeights x="0.0"
-		TintDetailWeights y="0.55"
-		TintDetailWeights z="0.0"
-		TintDetailWeights w="0.0"
-		D1_Diffuse  texNameHash="3804040627" [E2BD0DB3] (da3/actors/baseheads/humanfemale/textures/hf_hed_bas_d)
-		D2_Diffuse  texNameHash="1287754491" [4CC192FB] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_d)
-		N1_Normal   texNameHash="3804040633" [E2BD0DB9] (da3/actors/baseheads/humanfemale/textures/hf_hed_bas_n)
-		N2_Normal   texNameHash="1287754481" [4CC192F1] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_n)
-		S1_Specular texNameHash="3804040612" [E2BD0DA4] (da3/actors/baseheads/humanfemale/textures/hf_hed_bas_s)
-		S2_Specular texNameHash="1287754476" [4CC192EC] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_s)
-	} Slider 06 {
-		ComplextionBlend_Diff_Norm_Spec x="0.0"
-		ComplextionBlend_Diff_Norm_Spec y="0.0"
-		ComplextionBlend_Diff_Norm_Spec z="0.0"
-		TintDetailWeights x="0.0"
-		TintDetailWeights y="0.55"
-		TintDetailWeights z="0.0"
-		TintDetailWeights w="0.0"
-		D1_Diffuse  texNameHash="1541992643" [5BE8F0C3] (da3/actors/baseheads/dwarffemale/textures/df_hed_base_d)
-		D2_Diffuse  texNameHash="1287754491" [4CC192FB] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_d)
-		N1_Normal   texNameHash="1541992649" [5BE8F0C9] (da3/actors/baseheads/dwarffemale/textures/df_hed_base_n)
-		N2_Normal   texNameHash="1287754481" [4CC192F1] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_n)
-		S1_Specular texNameHash="1541992660" [5BE8F0D4] (da3/actors/baseheads/dwarffemale/textures/df_hed_base_s)
-		S2_Specular texNameHash="1287754476" [4CC192EC] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_s)
-	} Slider 07 {
-		ComplextionBlend_Diff_Norm_Spec x="0.0"
-		ComplextionBlend_Diff_Norm_Spec y="0.0"
-		ComplextionBlend_Diff_Norm_Spec z="0.0"
-		TintDetailWeights x="0.0"
-		TintDetailWeights y="0.5"
-		TintDetailWeights z="0.0"
-		TintDetailWeights w="0.0"
-		D1_Diffuse  texNameHash="1490248821" [58D36475] (da3/actors/baseheads/inquisitor/textures/hf_hed_inq_d)
-		D2_Diffuse  texNameHash="1287754491" [4CC192FB] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_d)
-		N1_Normal   texNameHash="1490248831" [58D3647F] (da3/actors/baseheads/inquisitor/textures/hf_hed_inq_n)
-		N2_Normal   texNameHash="1287754481" [4CC192F1] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_n)
-		S1_Specular texNameHash="1490248802" [58D36462] (da3/actors/baseheads/inquisitor/textures/hf_hed_inq_s)
-		S2_Specular texNameHash="1287754476" [4CC192EC] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_s)
-	} Slider 08 {
-		ComplextionBlend_Diff_Norm_Spec x="0.5"
-		ComplextionBlend_Diff_Norm_Spec y="0.9"
-		ComplextionBlend_Diff_Norm_Spec z="1.0"
-		TintDetailWeights x="0.0"
-		TintDetailWeights y="0.5"
-		TintDetailWeights z="0.0"
-		TintDetailWeights w="0.0"
-		D1_Diffuse  texNameHash="1331152466" [4F57C652] (da3/actors/baseheads/textures/age/uhm_age_d)
-		D2_Diffuse  texNameHash="3804040627" [E2BD0DB3] (da3/actors/baseheads/humanfemale/textures/hf_hed_bas_d)
-		N1_Normal   texNameHash="1331152472" [4F57C658] (da3/actors/baseheads/textures/age/uhm_age_n)
-		N2_Normal   texNameHash="3364688408" [C88D1218] (da3/actors/baseheads/textures/rough/uhm_rough_n)
-		S1_Specular texNameHash="3804040612" [E2BD0DA4] (da3/actors/baseheads/humanfemale/textures/hf_hed_bas_s)
-		S2_Specular texNameHash="3364688389" [C88D1205] (da3/actors/baseheads/textures/rough/uhm_rough_s)
-	} Slider 09 {
-		ComplextionBlend_Diff_Norm_Spec x="0.5"
-		ComplextionBlend_Diff_Norm_Spec y="0.93462"
-		ComplextionBlend_Diff_Norm_Spec z="0.0"
-		TintDetailWeights x="0.0"
-		TintDetailWeights y="0.5"
-		TintDetailWeights z="0.0"
-		TintDetailWeights w="0.0"
-		D1_Diffuse  texNameHash="3804040627" [E2BD0DB3] (da3/actors/baseheads/humanfemale/textures/hf_hed_bas_d)
-		D2_Diffuse  texNameHash="1287754491" [4CC192FB] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_d)
-		N1_Normal   texNameHash="1287754481" [4CC192F1] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_n)
-		N2_Normal   texNameHash="1418330828" [548A02CC] (da3/actors/baseheads/elfmale/textures/em_hed_bas_n)
-		S1_Specular texNameHash="1287754476" [4CC192EC] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_s)
-		S2_Specular texNameHash="1287754476" [4CC192EC] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_s)
-	} Slider 10 {
-		ComplextionBlend_Diff_Norm_Spec x="0.0"
-		ComplextionBlend_Diff_Norm_Spec y="0.0"
-		ComplextionBlend_Diff_Norm_Spec z="0.0"
-		TintDetailWeights x="0.5"
-		TintDetailWeights y="0.0"
-		TintDetailWeights z="0.0"
-		TintDetailWeights w="0.0"
-		D1_Diffuse  texNameHash="3804040627" [E2BD0DB3] (da3/actors/baseheads/humanfemale/textures/hf_hed_bas_d)
-		D2_Diffuse  texNameHash="1287754491" [4CC192FB] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_d)
-		N1_Normal   texNameHash="3804040633" [E2BD0DB9] (da3/actors/baseheads/humanfemale/textures/hf_hed_bas_n)
-		N2_Normal   texNameHash="1287754481" [4CC192F1] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_n)
-		S1_Specular texNameHash="3804040612" [E2BD0DA4] (da3/actors/baseheads/humanfemale/textures/hf_hed_bas_s)
-		S2_Specular texNameHash="1287754476" [4CC192EC] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_s)
-	} Slider 11 {
-		ComplextionBlend_Diff_Norm_Spec x="0.0"
-		ComplextionBlend_Diff_Norm_Spec y="0.0"
-		ComplextionBlend_Diff_Norm_Spec z="0.0"
-		TintDetailWeights x="0.5"
-		TintDetailWeights y="0.0"
-		TintDetailWeights z="0.0"
-		TintDetailWeights w="0.0"
-		D1_Diffuse  texNameHash="1541992643" [5BE8F0C3] (da3/actors/baseheads/dwarffemale/textures/df_hed_base_d)
-		D2_Diffuse  texNameHash="1287754491" [4CC192FB] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_d)
-		N1_Normal   texNameHash="1541992649" [5BE8F0C9] (da3/actors/baseheads/dwarffemale/textures/df_hed_base_n)
-		N2_Normal   texNameHash="1287754481" [4CC192F1] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_n)
-		S1_Specular texNameHash="1541992660" [5BE8F0D4] (da3/actors/baseheads/dwarffemale/textures/df_hed_base_s)
-		S2_Specular texNameHash="1287754476" [4CC192EC] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_s)
-	} Slider 12 {
-		ComplextionBlend_Diff_Norm_Spec x="0.0"
-		ComplextionBlend_Diff_Norm_Spec y="0.0"
-		ComplextionBlend_Diff_Norm_Spec z="0.0"
-		TintDetailWeights x="0.5"
-		TintDetailWeights y="0.0"
-		TintDetailWeights z="0.0"
-		TintDetailWeights w="0.0"
-		D1_Diffuse  texNameHash="1490248821" [58D36475] (da3/actors/baseheads/inquisitor/textures/hf_hed_inq_d)
-		D2_Diffuse  texNameHash="1287754491" [4CC192FB] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_d)
-		N1_Normal   texNameHash="1490248831" [58D3647F] (da3/actors/baseheads/inquisitor/textures/hf_hed_inq_n)
-		N2_Normal   texNameHash="1287754481" [4CC192F1] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_n)
-		S1_Specular texNameHash="1490248802" [58D36462] (da3/actors/baseheads/inquisitor/textures/hf_hed_inq_s)
-		S2_Specular texNameHash="1287754476" [4CC192EC] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_s)
-	} Slider 13 {
-		ComplextionBlend_Diff_Norm_Spec x="0.5"
-		ComplextionBlend_Diff_Norm_Spec y="0.9"
-		ComplextionBlend_Diff_Norm_Spec z="1.0"
-		TintDetailWeights x="0.5"
-		TintDetailWeights y="0.0"
-		TintDetailWeights z="0.0"
-		TintDetailWeights w="0.0"
-		D1_Diffuse  texNameHash="1331152466" [4F57C652] (da3/actors/baseheads/textures/age/uhm_age_d)
-		D2_Diffuse  texNameHash="3804040627" [E2BD0DB3] (da3/actors/baseheads/humanfemale/textures/hf_hed_bas_d)
-		N1_Normal   texNameHash="1331152472" [4F57C658] (da3/actors/baseheads/textures/age/uhm_age_n)
-		N2_Normal   texNameHash="3364688408" [C88D1218] (da3/actors/baseheads/textures/rough/uhm_rough_n)
-		S1_Specular texNameHash="3804040612" [E2BD0DA4] (da3/actors/baseheads/humanfemale/textures/hf_hed_bas_s)
-		S2_Specular texNameHash="3364688389" [C88D1205] (da3/actors/baseheads/textures/rough/uhm_rough_s)
-	} Slider 14 {
-		ComplextionBlend_Diff_Norm_Spec x="0.5"
-		ComplextionBlend_Diff_Norm_Spec y="0.93462"
-		ComplextionBlend_Diff_Norm_Spec z="0.0"
-		TintDetailWeights x="0.5"
-		TintDetailWeights y="0.0"
-		TintDetailWeights z="0.0"
-		TintDetailWeights w="0.0"
-		D1_Diffuse  texNameHash="3804040627" [E2BD0DB3] (da3/actors/baseheads/humanfemale/textures/hf_hed_bas_d)
-		D2_Diffuse  texNameHash="1287754491" [4CC192FB] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_d)
-		N1_Normal   texNameHash="1287754481" [4CC192F1] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_n)
-		N2_Normal   texNameHash="1418330828" [548A02CC] (da3/actors/baseheads/elfmale/textures/em_hed_bas_n)
-		S1_Specular texNameHash="1287754476" [4CC192EC] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_s)
-		S2_Specular texNameHash="1287754476" [4CC192EC] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_s)
-	}
+    Slider 00 {
+        ComplextionBlend_Diff_Norm_Spec x="0.0"
+        ComplextionBlend_Diff_Norm_Spec y="0.0"
+        ComplextionBlend_Diff_Norm_Spec z="0.0"
+        TintDetailWeights x="0.0"
+        TintDetailWeights y="0.0"
+        TintDetailWeights z="0.0"
+        TintDetailWeights w="0.0"
+        D1_Diffuse  texNameHash="3804040627" [E2BD0DB3] (da3/actors/baseheads/humanfemale/textures/hf_hed_bas_d)
+        D2_Diffuse  texNameHash="1287754491" [4CC192FB] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_d)
+        N1_Normal   texNameHash="3804040633" [E2BD0DB9] (da3/actors/baseheads/humanfemale/textures/hf_hed_bas_n)
+        N2_Normal   texNameHash="1287754481" [4CC192F1] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_n)
+        S1_Specular texNameHash="3804040612" [E2BD0DA4] (da3/actors/baseheads/humanfemale/textures/hf_hed_bas_s)
+        S2_Specular texNameHash="1287754476" [4CC192EC] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_s)
+    } Slider 01 {
+        ComplextionBlend_Diff_Norm_Spec x="0.0"
+        ComplextionBlend_Diff_Norm_Spec y="0.0"
+        ComplextionBlend_Diff_Norm_Spec z="0.0"
+        TintDetailWeights x="0.0"
+        TintDetailWeights y="0.0"
+        TintDetailWeights z="0.0"
+        TintDetailWeights w="0.0"
+        D1_Diffuse  texNameHash="1541992643" [5BE8F0C3] (da3/actors/baseheads/dwarffemale/textures/df_hed_base_d)
+        D2_Diffuse  texNameHash="1287754491" [4CC192FB] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_d)
+        N1_Normal   texNameHash="1541992649" [5BE8F0C9] (da3/actors/baseheads/dwarffemale/textures/df_hed_base_n)
+        N2_Normal   texNameHash="1287754481" [4CC192F1] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_n)
+        S1_Specular texNameHash="1541992660" [5BE8F0D4] (da3/actors/baseheads/dwarffemale/textures/df_hed_base_s)
+        S2_Specular texNameHash="1287754476" [4CC192EC] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_s)
+    } Slider 02 {
+        ComplextionBlend_Diff_Norm_Spec x="0.0"
+        ComplextionBlend_Diff_Norm_Spec y="0.0"
+        ComplextionBlend_Diff_Norm_Spec z="0.0"
+        TintDetailWeights x="0.0"
+        TintDetailWeights y="0.0"
+        TintDetailWeights z="0.0"
+        TintDetailWeights w="0.0"
+        D1_Diffuse  texNameHash="1490248821" [58D36475] (da3/actors/baseheads/inquisitor/textures/hf_hed_inq_d)
+        D2_Diffuse  texNameHash="1287754491" [4CC192FB] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_d)
+        N1_Normal   texNameHash="1490248831" [58D3647F] (da3/actors/baseheads/inquisitor/textures/hf_hed_inq_n)
+        N2_Normal   texNameHash="1287754481" [4CC192F1] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_n)
+        S1_Specular texNameHash="1490248802" [58D36462] (da3/actors/baseheads/inquisitor/textures/hf_hed_inq_s)
+        S2_Specular texNameHash="1287754476" [4CC192EC] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_s)
+    } Slider 03 {
+        ComplextionBlend_Diff_Norm_Spec x="0.62832"
+        ComplextionBlend_Diff_Norm_Spec y="0.9"
+        ComplextionBlend_Diff_Norm_Spec z="1.0"
+        TintDetailWeights x="0.0"
+        TintDetailWeights y="0.0"
+        TintDetailWeights z="0.0"
+        TintDetailWeights w="0.0"
+        D1_Diffuse  texNameHash="1331152466" [4F57C652] (da3/actors/baseheads/textures/age/uhm_age_d)
+        D2_Diffuse  texNameHash="3804040627" [E2BD0DB3] (da3/actors/baseheads/humanfemale/textures/hf_hed_bas_d)
+        N1_Normal   texNameHash="1331152472" [4F57C658] (da3/actors/baseheads/textures/age/uhm_age_n)
+        N2_Normal   texNameHash="3364688408" [C88D1218] (da3/actors/baseheads/textures/rough/uhm_rough_n)
+        S1_Specular texNameHash="3804040612" [E2BD0DA4] (da3/actors/baseheads/humanfemale/textures/hf_hed_bas_s)
+        S2_Specular texNameHash="3364688389" [C88D1205] (da3/actors/baseheads/textures/rough/uhm_rough_s)
+    } Slider 04 {
+        ComplextionBlend_Diff_Norm_Spec x="0.5"
+        ComplextionBlend_Diff_Norm_Spec y="0.93462"
+        ComplextionBlend_Diff_Norm_Spec z="0.0"
+        TintDetailWeights x="0.0"
+        TintDetailWeights y="0.0"
+        TintDetailWeights z="0.0"
+        TintDetailWeights w="0.0"
+        D1_Diffuse  texNameHash="3804040627" [E2BD0DB3] (da3/actors/baseheads/humanfemale/textures/hf_hed_bas_d)
+        D2_Diffuse  texNameHash="1287754491" [4CC192FB] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_d)
+        N1_Normal   texNameHash="1287754481" [4CC192F1] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_n)
+        N2_Normal   texNameHash="1418330828" [548A02CC] (da3/actors/baseheads/elfmale/textures/em_hed_bas_n)
+        S1_Specular texNameHash="1287754476" [4CC192EC] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_s)
+        S2_Specular texNameHash="1287754476" [4CC192EC] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_s)
+    } Slider 05 {
+        ComplextionBlend_Diff_Norm_Spec x="0.0"
+        ComplextionBlend_Diff_Norm_Spec y="0.0"
+        ComplextionBlend_Diff_Norm_Spec z="0.0"
+        TintDetailWeights x="0.0"
+        TintDetailWeights y="0.55"
+        TintDetailWeights z="0.0"
+        TintDetailWeights w="0.0"
+        D1_Diffuse  texNameHash="3804040627" [E2BD0DB3] (da3/actors/baseheads/humanfemale/textures/hf_hed_bas_d)
+        D2_Diffuse  texNameHash="1287754491" [4CC192FB] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_d)
+        N1_Normal   texNameHash="3804040633" [E2BD0DB9] (da3/actors/baseheads/humanfemale/textures/hf_hed_bas_n)
+        N2_Normal   texNameHash="1287754481" [4CC192F1] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_n)
+        S1_Specular texNameHash="3804040612" [E2BD0DA4] (da3/actors/baseheads/humanfemale/textures/hf_hed_bas_s)
+        S2_Specular texNameHash="1287754476" [4CC192EC] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_s)
+    } Slider 06 {
+        ComplextionBlend_Diff_Norm_Spec x="0.0"
+        ComplextionBlend_Diff_Norm_Spec y="0.0"
+        ComplextionBlend_Diff_Norm_Spec z="0.0"
+        TintDetailWeights x="0.0"
+        TintDetailWeights y="0.55"
+        TintDetailWeights z="0.0"
+        TintDetailWeights w="0.0"
+        D1_Diffuse  texNameHash="1541992643" [5BE8F0C3] (da3/actors/baseheads/dwarffemale/textures/df_hed_base_d)
+        D2_Diffuse  texNameHash="1287754491" [4CC192FB] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_d)
+        N1_Normal   texNameHash="1541992649" [5BE8F0C9] (da3/actors/baseheads/dwarffemale/textures/df_hed_base_n)
+        N2_Normal   texNameHash="1287754481" [4CC192F1] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_n)
+        S1_Specular texNameHash="1541992660" [5BE8F0D4] (da3/actors/baseheads/dwarffemale/textures/df_hed_base_s)
+        S2_Specular texNameHash="1287754476" [4CC192EC] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_s)
+    } Slider 07 {
+        ComplextionBlend_Diff_Norm_Spec x="0.0"
+        ComplextionBlend_Diff_Norm_Spec y="0.0"
+        ComplextionBlend_Diff_Norm_Spec z="0.0"
+        TintDetailWeights x="0.0"
+        TintDetailWeights y="0.5"
+        TintDetailWeights z="0.0"
+        TintDetailWeights w="0.0"
+        D1_Diffuse  texNameHash="1490248821" [58D36475] (da3/actors/baseheads/inquisitor/textures/hf_hed_inq_d)
+        D2_Diffuse  texNameHash="1287754491" [4CC192FB] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_d)
+        N1_Normal   texNameHash="1490248831" [58D3647F] (da3/actors/baseheads/inquisitor/textures/hf_hed_inq_n)
+        N2_Normal   texNameHash="1287754481" [4CC192F1] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_n)
+        S1_Specular texNameHash="1490248802" [58D36462] (da3/actors/baseheads/inquisitor/textures/hf_hed_inq_s)
+        S2_Specular texNameHash="1287754476" [4CC192EC] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_s)
+    } Slider 08 {
+        ComplextionBlend_Diff_Norm_Spec x="0.5"
+        ComplextionBlend_Diff_Norm_Spec y="0.9"
+        ComplextionBlend_Diff_Norm_Spec z="1.0"
+        TintDetailWeights x="0.0"
+        TintDetailWeights y="0.5"
+        TintDetailWeights z="0.0"
+        TintDetailWeights w="0.0"
+        D1_Diffuse  texNameHash="1331152466" [4F57C652] (da3/actors/baseheads/textures/age/uhm_age_d)
+        D2_Diffuse  texNameHash="3804040627" [E2BD0DB3] (da3/actors/baseheads/humanfemale/textures/hf_hed_bas_d)
+        N1_Normal   texNameHash="1331152472" [4F57C658] (da3/actors/baseheads/textures/age/uhm_age_n)
+        N2_Normal   texNameHash="3364688408" [C88D1218] (da3/actors/baseheads/textures/rough/uhm_rough_n)
+        S1_Specular texNameHash="3804040612" [E2BD0DA4] (da3/actors/baseheads/humanfemale/textures/hf_hed_bas_s)
+        S2_Specular texNameHash="3364688389" [C88D1205] (da3/actors/baseheads/textures/rough/uhm_rough_s)
+    } Slider 09 {
+        ComplextionBlend_Diff_Norm_Spec x="0.5"
+        ComplextionBlend_Diff_Norm_Spec y="0.93462"
+        ComplextionBlend_Diff_Norm_Spec z="0.0"
+        TintDetailWeights x="0.0"
+        TintDetailWeights y="0.5"
+        TintDetailWeights z="0.0"
+        TintDetailWeights w="0.0"
+        D1_Diffuse  texNameHash="3804040627" [E2BD0DB3] (da3/actors/baseheads/humanfemale/textures/hf_hed_bas_d)
+        D2_Diffuse  texNameHash="1287754491" [4CC192FB] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_d)
+        N1_Normal   texNameHash="1287754481" [4CC192F1] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_n)
+        N2_Normal   texNameHash="1418330828" [548A02CC] (da3/actors/baseheads/elfmale/textures/em_hed_bas_n)
+        S1_Specular texNameHash="1287754476" [4CC192EC] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_s)
+        S2_Specular texNameHash="1287754476" [4CC192EC] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_s)
+    } Slider 10 {
+        ComplextionBlend_Diff_Norm_Spec x="0.0"
+        ComplextionBlend_Diff_Norm_Spec y="0.0"
+        ComplextionBlend_Diff_Norm_Spec z="0.0"
+        TintDetailWeights x="0.5"
+        TintDetailWeights y="0.0"
+        TintDetailWeights z="0.0"
+        TintDetailWeights w="0.0"
+        D1_Diffuse  texNameHash="3804040627" [E2BD0DB3] (da3/actors/baseheads/humanfemale/textures/hf_hed_bas_d)
+        D2_Diffuse  texNameHash="1287754491" [4CC192FB] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_d)
+        N1_Normal   texNameHash="3804040633" [E2BD0DB9] (da3/actors/baseheads/humanfemale/textures/hf_hed_bas_n)
+        N2_Normal   texNameHash="1287754481" [4CC192F1] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_n)
+        S1_Specular texNameHash="3804040612" [E2BD0DA4] (da3/actors/baseheads/humanfemale/textures/hf_hed_bas_s)
+        S2_Specular texNameHash="1287754476" [4CC192EC] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_s)
+    } Slider 11 {
+        ComplextionBlend_Diff_Norm_Spec x="0.0"
+        ComplextionBlend_Diff_Norm_Spec y="0.0"
+        ComplextionBlend_Diff_Norm_Spec z="0.0"
+        TintDetailWeights x="0.5"
+        TintDetailWeights y="0.0"
+        TintDetailWeights z="0.0"
+        TintDetailWeights w="0.0"
+        D1_Diffuse  texNameHash="1541992643" [5BE8F0C3] (da3/actors/baseheads/dwarffemale/textures/df_hed_base_d)
+        D2_Diffuse  texNameHash="1287754491" [4CC192FB] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_d)
+        N1_Normal   texNameHash="1541992649" [5BE8F0C9] (da3/actors/baseheads/dwarffemale/textures/df_hed_base_n)
+        N2_Normal   texNameHash="1287754481" [4CC192F1] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_n)
+        S1_Specular texNameHash="1541992660" [5BE8F0D4] (da3/actors/baseheads/dwarffemale/textures/df_hed_base_s)
+        S2_Specular texNameHash="1287754476" [4CC192EC] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_s)
+    } Slider 12 {
+        ComplextionBlend_Diff_Norm_Spec x="0.0"
+        ComplextionBlend_Diff_Norm_Spec y="0.0"
+        ComplextionBlend_Diff_Norm_Spec z="0.0"
+        TintDetailWeights x="0.5"
+        TintDetailWeights y="0.0"
+        TintDetailWeights z="0.0"
+        TintDetailWeights w="0.0"
+        D1_Diffuse  texNameHash="1490248821" [58D36475] (da3/actors/baseheads/inquisitor/textures/hf_hed_inq_d)
+        D2_Diffuse  texNameHash="1287754491" [4CC192FB] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_d)
+        N1_Normal   texNameHash="1490248831" [58D3647F] (da3/actors/baseheads/inquisitor/textures/hf_hed_inq_n)
+        N2_Normal   texNameHash="1287754481" [4CC192F1] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_n)
+        S1_Specular texNameHash="1490248802" [58D36462] (da3/actors/baseheads/inquisitor/textures/hf_hed_inq_s)
+        S2_Specular texNameHash="1287754476" [4CC192EC] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_s)
+    } Slider 13 {
+        ComplextionBlend_Diff_Norm_Spec x="0.5"
+        ComplextionBlend_Diff_Norm_Spec y="0.9"
+        ComplextionBlend_Diff_Norm_Spec z="1.0"
+        TintDetailWeights x="0.5"
+        TintDetailWeights y="0.0"
+        TintDetailWeights z="0.0"
+        TintDetailWeights w="0.0"
+        D1_Diffuse  texNameHash="1331152466" [4F57C652] (da3/actors/baseheads/textures/age/uhm_age_d)
+        D2_Diffuse  texNameHash="3804040627" [E2BD0DB3] (da3/actors/baseheads/humanfemale/textures/hf_hed_bas_d)
+        N1_Normal   texNameHash="1331152472" [4F57C658] (da3/actors/baseheads/textures/age/uhm_age_n)
+        N2_Normal   texNameHash="3364688408" [C88D1218] (da3/actors/baseheads/textures/rough/uhm_rough_n)
+        S1_Specular texNameHash="3804040612" [E2BD0DA4] (da3/actors/baseheads/humanfemale/textures/hf_hed_bas_s)
+        S2_Specular texNameHash="3364688389" [C88D1205] (da3/actors/baseheads/textures/rough/uhm_rough_s)
+    } Slider 14 {
+        ComplextionBlend_Diff_Norm_Spec x="0.5"
+        ComplextionBlend_Diff_Norm_Spec y="0.93462"
+        ComplextionBlend_Diff_Norm_Spec z="0.0"
+        TintDetailWeights x="0.5"
+        TintDetailWeights y="0.0"
+        TintDetailWeights z="0.0"
+        TintDetailWeights w="0.0"
+        D1_Diffuse  texNameHash="3804040627" [E2BD0DB3] (da3/actors/baseheads/humanfemale/textures/hf_hed_bas_d)
+        D2_Diffuse  texNameHash="1287754491" [4CC192FB] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_d)
+        N1_Normal   texNameHash="1287754481" [4CC192F1] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_n)
+        N2_Normal   texNameHash="1418330828" [548A02CC] (da3/actors/baseheads/elfmale/textures/em_hed_bas_n)
+        S1_Specular texNameHash="1287754476" [4CC192EC] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_s)
+        S2_Specular texNameHash="1287754476" [4CC192EC] (da3/actors/baseheads/humanmale/textures/hm_hed_bas_s)
+    }
 }
 
 Human Male {
